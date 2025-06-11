@@ -1,7 +1,7 @@
 # 📝 To Do List App
 
 ## a. Nama  
-To Do List
+Christian Pieter
 
 ## b. Judul Project  
 Aplikasi To Do List 
