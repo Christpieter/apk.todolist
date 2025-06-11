@@ -23,7 +23,7 @@ To Do List adalah aplikasi manajemen tugas harian yang memungkinkan pengguna unt
 ## e. Cara Menjalankan Aplikasi  
 1. Clone repository ini  
    ```bash
-   git clone https://github.com/username/todo-list-app.git
+   git clone https://github.com/Christpieter/apk.todolist
    cd todo-list-app
 ## f. Screenshot UI dan Tampilan
 Login
